@@ -10,7 +10,7 @@ distinction between sections of content.
 ## Usage
 
 ```js
-import { Divider } from 'react-native-elements';
+import { Divider } from '@applicaster/react-native-elements';
 
 <Divider style={{ backgroundColor: 'blue' }} />;
 ```

@@ -9,7 +9,7 @@ original_id: searchbar
 ## Usage
 
 ```js
-import { SearchBar } from 'react-native-elements'
+import { SearchBar } from '@applicaster/react-native-elements'
 
 <SearchBar
   onChangeText={someMethod}

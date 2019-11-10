@@ -13,7 +13,7 @@ Sliders allow users to select a value from a fixed set of options.
 ## Usage
 
 ```js
-import { Slider } from 'react-native-elements';
+import { Slider } from '@applicaster/react-native-elements';
 
 <View style={{ flex: 1, alignItems: 'stretch', justifyContent: 'center' }}>
   <Slider

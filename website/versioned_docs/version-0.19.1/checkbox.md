@@ -9,7 +9,7 @@ original_id: checkbox
 ## Usage
 
 ```js
-import { CheckBox } from 'react-native-elements'
+import { CheckBox } from '@applicaster/react-native-elements'
 
 <CheckBox
   title='Click Here'

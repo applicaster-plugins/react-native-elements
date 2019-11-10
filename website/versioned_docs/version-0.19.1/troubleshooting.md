@@ -20,10 +20,10 @@ Spelling a component incorrectly though very simple, happens occasionally.
 
 ```
 // Incorrect
-import { Listitem } from 'react-native-elements'
+import { Listitem } from '@applicaster/react-native-elements'
 
 // Correct
-import { ListItem } from 'react-native-elements'
+import { ListItem } from '@applicaster/react-native-elements'
 ```
 
 ### Importing a component from the wrong version

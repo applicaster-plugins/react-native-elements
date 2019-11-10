@@ -13,7 +13,7 @@ Components for managing lists. Includes `List` and `ListItem`.
 ### Using Map Function. Implemented with avatar.
 
 ```js
-import { List, ListItem } from 'react-native-elements'
+import { List, ListItem } from '@applicaster/react-native-elements'
 
 const list = [
   {
@@ -46,7 +46,7 @@ const list = [
 ### Using FlatList. Implemented with link and avatar.
 
 ```js
-import { List, ListItem } from 'react-native-elements'
+import { List, ListItem } from '@applicaster/react-native-elements'
 
 const list = [
   {

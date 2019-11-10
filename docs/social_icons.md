@@ -10,7 +10,7 @@ SocialIcons are visual cues to online and social media networks.
 ## Usage
 
 ```js
-import { SocialIcon } from 'react-native-elements'
+import { SocialIcon } from '@applicaster/react-native-elements'
 
 // Icon
 <SocialIcon

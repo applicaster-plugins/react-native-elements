@@ -47,7 +47,7 @@ to see how to use them with React Native Elements.
 ## Usage
 
 ```js
-import { Icon } from 'react-native-elements'
+import { Icon } from '@applicaster/react-native-elements'
 
 <Icon
   name='rowing' />

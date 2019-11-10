@@ -10,7 +10,7 @@ Components for managing forms. Includes `FormLabel`, `FormInput` and `FormValida
 ## Usage
 
 ```js
-import { FormLabel, FormInput, FormValidationMessage } from 'react-native-elements'
+import { FormLabel, FormInput, FormValidationMessage } from '@applicaster/react-native-elements'
 
 <FormLabel>Name</FormLabel>
 <FormInput onChangeText={someFunction}/>

@@ -24,7 +24,7 @@ of items directly impacts a user's ability to find one of them.
 ## Usage
 
 ```jsx
-import { SearchBar } from 'react-native-elements';
+import { SearchBar } from '@applicaster/react-native-elements';
 
 export default class App extends React.Component {
   state = {

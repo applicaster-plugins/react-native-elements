@@ -14,7 +14,7 @@ images with a placeholder and smooth image load transitioning.
 
 ```js
 import { ActivityIndicator } from 'react-native';
-import { Image } from 'react-native-elements';
+import { Image } from '@applicaster/react-native-elements';
 
 // Standard Image
 <Image

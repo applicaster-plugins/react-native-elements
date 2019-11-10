@@ -11,7 +11,7 @@ Tooltips display informative text when users tap on an element.
 ## Usage
 
 ```js
-import { Tooltip, Text } from 'react-native-elements';
+import { Tooltip, Text } from '@applicaster/react-native-elements';
 
 ...
 

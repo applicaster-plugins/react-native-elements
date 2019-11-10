@@ -174,7 +174,7 @@ Now, let's grasp the idea how RNE works.
 1. Import Button from RNE
 
    ```
-   import { Button } from 'react-native-elements';
+   import { Button } from '@applicaster/react-native-elements';
    ```
 
 1. On render, change TouchableHighlight to use RNE's Button
@@ -280,7 +280,7 @@ We will create a `withHeader` HOC. Why HOC? We can reuse it easier _if we add mo
 1. Import `Header` from RNE and `Icon` from `RNVI/FontAwesome`
 
    ```
-   import { Header } from 'react-native-elements';
+   import { Header } from '@applicaster/react-native-elements';
    import Icon from 'react-native-vector-icons/FontAwesome';
    ```
 
@@ -336,7 +336,7 @@ Let’s modify `CommitList.js`
 
    ```
    import { ActivityIndicator, Dimensions, FlatList, Platform, View } from 'react-native';
-   import { Avatar, ListItem } from 'react-native-elements';
+   import { Avatar, ListItem } from '@applicaster/react-native-elements';
    ```
 
 1. On main render, modify it as below
@@ -489,7 +489,7 @@ What happens if we fetch repository which doesn’t exist? _Red screen on native
 1. Import `Text` from RNE
 
    ```
-   import { ..., Text } from 'react-native-elements';
+   import { ..., Text } from '@applicaster/react-native-elements';
    ```
 
 1. Add `renderFlatList` method

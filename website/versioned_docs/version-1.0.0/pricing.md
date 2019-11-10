@@ -12,7 +12,7 @@ in a beautiful and engaging way.
 ## Usage
 
 ```js
-import { PricingCard } from 'react-native-elements';
+import { PricingCard } from '@applicaster/react-native-elements';
 
 <PricingCard
   color="#4f9deb"

@@ -45,7 +45,7 @@ Start using the components or try it on Snack
 [here](https://snack.expo.io/rJu6gJfBZ).
 
 ```js
-import { Button } from 'react-native-elements';
+import { Button } from '@applicaster/react-native-elements';
 
 <Button />;
 ```

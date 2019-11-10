@@ -9,7 +9,7 @@ original_id: pricing
 ## Usage
 
 ```jsx
-import { PricingCard } from 'react-native-elements';
+import { PricingCard } from '@applicaster/react-native-elements';
 
 <PricingCard
   color="#4f9deb"

@@ -13,7 +13,7 @@ An extendable Ratings components for React Native with gestures and an intuitive
 ## Usage
 
 ```js
-import { Rating } from 'react-native-elements';
+import { Rating } from '@applicaster/react-native-elements';
 
 ratingCompleted(rating) {
   console.log("Rating is: " + rating)

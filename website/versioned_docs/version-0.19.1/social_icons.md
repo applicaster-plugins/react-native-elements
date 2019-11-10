@@ -9,7 +9,7 @@ original_id: social_icon
 ## Usage
 
 ```js
-import { SocialIcon } from 'react-native-elements'
+import { SocialIcon } from '@applicaster/react-native-elements'
 
 // Icon
 <SocialIcon

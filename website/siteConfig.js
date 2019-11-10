@@ -10,7 +10,7 @@ const siteConfig = {
   tagline: 'Cross Platform React Native UI Toolkit',
   url: 'https://react-native-training.github.io/' /* your website url */,
   baseUrl: '/react-native-elements/' /* base url for your project */,
-  projectName: 'react-native-elements',
+  projectName: '@applicaster/react-native-elements',
   organizationName: 'react-native-training',
   headerLinks: [
     { doc: 'getting_started', label: 'Docs' },

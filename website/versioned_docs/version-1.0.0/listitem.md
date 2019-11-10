@@ -15,7 +15,7 @@ avatars, badges, icons, and more.
 ### Using Map Function - Implemented with avatar
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from '@applicaster/react-native-elements'
 
 const list = [
   {
@@ -48,7 +48,7 @@ const list = [
 ### Using Map Function - Implemented with link and icon
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from '@applicaster/react-native-elements'
 
 const list = [
   {
@@ -78,7 +78,7 @@ const list = [
 ### Using RN FlatList - Implemented with link and avatar
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from '@applicaster/react-native-elements'
 
 const list = [
   {
@@ -118,7 +118,7 @@ render () {
 ### Using RN FlatList - Implemented with custom avatar component.
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from '@applicaster/react-native-elements'
 
 const list = [
   {
@@ -160,7 +160,7 @@ render () {
 ### ListItem implemented with custom View for Subtitle
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from '@applicaster/react-native-elements'
 
 render () {
   return (

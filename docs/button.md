@@ -25,7 +25,7 @@ specific way.
 ## Usage
 
 ```js
-import { Button } from 'react-native-elements';
+import { Button } from '@applicaster/react-native-elements';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 <Button
@@ -328,7 +328,7 @@ For react-native-cli users, make sure to follow the
 and use it like this:
 
 ```jsx
-import { Button } from 'react-native-elements';
+import { Button } from '@applicaster/react-native-elements';
 import LinearGradient from 'react-native-linear-gradient';
 
 ...

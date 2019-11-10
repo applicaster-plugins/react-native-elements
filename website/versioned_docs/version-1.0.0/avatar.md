@@ -29,7 +29,7 @@ commonly used to represent a user and can contain photos, icons, or even text.
 ## Usage
 
 ```js
-import { Avatar } from 'react-native-elements';
+import { Avatar } from '@applicaster/react-native-elements';
 
 // Standard Avatar
 <Avatar
@@ -152,7 +152,7 @@ import { Avatar } from "react-native-elements";
 <img src="/react-native-elements/img/avatar_with_title_placeholder.gif" width="500" >
 
 ```js
-import { ListItem } from 'react-native-elements';
+import { ListItem } from '@applicaster/react-native-elements';
 
 <ListItem
   leftAvatar={{

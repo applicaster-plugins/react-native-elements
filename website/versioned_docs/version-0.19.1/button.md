@@ -17,7 +17,7 @@ below.
 ## Usage
 
 ```js
-import { Button } from 'react-native-elements'
+import { Button } from '@applicaster/react-native-elements'
 
 <Button
   title='BUTTON' />

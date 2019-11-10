@@ -13,7 +13,7 @@ A pure JavaScript <Slider> component for react-native. It is a drop-in replaceme
 ## Usage
 
 ```js
-import { Slider } from 'react-native-elements';
+import { Slider } from '@applicaster/react-native-elements';
 
 <View style={{ flex: 1, alignItems: 'stretch', justifyContent: 'center' }}>
   <Slider

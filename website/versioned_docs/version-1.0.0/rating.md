@@ -14,7 +14,7 @@ Input where imagery can increase user interaction.
 ## Usage
 
 ```js
-import { Rating, AirbnbRating } from 'react-native-elements';
+import { Rating, AirbnbRating } from '@applicaster/react-native-elements';
 
 ratingCompleted(rating) {
   console.log("Rating is: " + rating)

@@ -18,7 +18,7 @@ const users = [
 ]
 
 import { View, Text, Image } from 'react-native'
-import { Card, ListItem, Button } from 'react-native-elements'
+import { Card, ListItem, Button } from '@applicaster/react-native-elements'
 
 // implemented without image with header
 <Card title="CARD WITH DIVIDER">
